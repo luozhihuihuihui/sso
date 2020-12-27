@@ -1,0 +1,26 @@
+###服务配置
+server:
+  port: 8080
+  servlet:
+    context-path: /web
+
+###模板引擎配置
+spring:
+  thymeleaf:
+    #路径
+    prefix: classpath:/templates/
+    #后缀
+    suffix: .html
+    #模板格式
+    mode: HTML5
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+    cache: false
+
+
+###日志配置
+logging:
+  config: src/main/resources/logback.xml
+#  level:
+#    com.github.springbootmiaosha.dao: trace

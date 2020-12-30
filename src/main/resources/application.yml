@@ -1,11 +1,7 @@
-###服务配置
-server:
-  port: 8080
-  servlet:
-    context-path: /web
-
 ###模板引擎配置
 spring:
+  profiles:
+    active: dev
   thymeleaf:
     #路径
     prefix: classpath:/templates/
@@ -17,7 +13,6 @@ spring:
     servlet:
       content-type: text/html
     cache: false
-
 
 ###日志配置
 logging:

@@ -1,4 +1,4 @@
-package com.nsulzh.sso.entity;
+package com.nsulzh.knowledge.entity;
 
 import lombok.Data;
 

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:th="http://www.w3.org/1999/xhtml" xmlns:method="http://www.w3.org/1999/xhtml">
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+    <title>Signin Template for Bootstrap</title>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="container" style="width: 40%">
+
+    <form class="form-signin" th:action="@{/register}" th:method="post" style="margin-top: 30%">
+        <h2 class="form-signin-heading">注册</h2>
+        <input type="text" id="name" name="name" class="form-control" placeholder="登录用户名" required autofocus>
+        <label for="passWord" class="sr-only">Password</label>
+        <input type="password" id="passWord" name="passWord" class="form-control" placeholder="Password" required>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    </form>
+
+</div> <!-- /container -->
+
+
+
+</body>
+</html>

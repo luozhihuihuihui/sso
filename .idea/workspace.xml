@@ -2,84 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a4f3d25-60b5-4a24-a484-80da2c3f01d1" name="Default Changelist" comment="初次提交">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/config/JwtProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/config/ShiroConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/config/ShiroFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/shiro/cache/RedisCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/shiro/cache/RedisCacheManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/shiro/realms/CustomerRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/shiro/salt/MyByteSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/ApplicationContextUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/MyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/PageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/SaltUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/TokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util/VerifyCodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nsulzh/sso/SsoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/KnowledgeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nsulzh/sso/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nsulzh/sso/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +75,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="1m9YcWv5Y5ALnLxLnWgm1wJiTNe" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -124,7 +97,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates/home" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -137,89 +110,381 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.nsulzh.knowledge.config" />
+      <recent name="com.nsulzh.knowledge.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/home" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/bootstrap" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge/util" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/nsulzh/knowledge" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/src/main/resources/templates/index" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileUtil">
-    <configuration name="FileUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nsulzh.sso.util.FileUtil" />
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxIiwic3ViIjoibHpoIiwiaWF0IjoxNjA5NjY3NTgzLCJleHAiOjE2MDk2Njc2NDN9.rJRG3vGe1uE74Tw-KF2Amyztq_AHovfCDPHhi1suEgE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;userName&quot;: &quot;lzh&quot;,&#10;  &quot;passWord&quot;: &quot;111111&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="token {{token}}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="Bearer {{$token}}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="Bearer {{token}}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="{{token}}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxIiwic3ViIjoibHpoIiwiaWF0IjoxNjA5NjY3MjgzLCJleHAiOjE2MDk2NjczNDN9.UoXz-g0c9rAqAM1tNl8av5se9jbhn8pBZchhJkJrp9M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="3F37553582CCA3A32E578687C3AAC286" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxIiwic3ViIjoibHpoIiwiaWF0IjoxNjA5NjY3MjgzLCJleHAiOjE2MDk2NjczNDN9.UoXz-g0c9rAqAM1tNl8av5se9jbhn8pBZchhJkJrp9M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="5CF380F11214CEE38C75F6CB556FA336" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/info/2" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="5CF380F11214CEE38C75F6CB556FA336" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;userName&quot;: &quot;lzh&quot;,&#10;  &quot;passWord&quot;: &quot;111111&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/web" />
+                <option name="value" value="5CF380F11214CEE38C75F6CB556FA336" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/register" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;userName&quot;: &quot;lzh&quot;,&#10;  &quot;name&quot;: &quot;罗智辉&quot;,&#10;  &quot;passWord&quot;: &quot;111111&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/web/user/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;userName&quot;: &quot;lzh&quot;,&#10;  &quot;passWord&quot;: &quot;111111&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.generated-requests#3">
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="KnowledgeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="knowledge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nsulzh.sso.util.*" />
+          <option name="PATTERN" value="com.nsulzh.knowledge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="knowledge" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nsulzh.knowledge.KnowledgeApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="knowledge" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="knowledge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nsulzh.sso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nsulzh.sso.SsoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests#3" />
+      <item itemvalue="HTTP Request.generated-requests#1" />
+      <item itemvalue="Spring Boot.KnowledgeApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileUtil" />
-        <item itemvalue="Spring Boot.SsoApplication" />
+        <item itemvalue="HTTP Request.generated-requests#3" />
+        <item itemvalue="HTTP Request.generated-requests#1" />
+        <item itemvalue="Spring Boot.KnowledgeApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +501,9 @@
       <workItem from="1608907356304" duration="2507000" />
       <workItem from="1609081408955" duration="6267000" />
       <workItem from="1609330167981" duration="1591000" />
+      <workItem from="1609332542459" duration="27166000" />
+      <workItem from="1610766603692" duration="686000" />
+      <workItem from="1610769747479" duration="2181000" />
     </task>
     <task id="LOCAL-00001" summary="初次提交">
       <created>1609083337153</created>
@@ -280,78 +548,94 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="28" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1609083434533" />
-    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609082832691">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609665519069">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1609082832691" />
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1609665519069" />
     <state x="425" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609083749292">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="425" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1609083749292" />
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1609666222972">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1609666222972" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609668425705">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1609668425705" />
     <state x="304" y="22" key="CommitChangelistDialog2" timestamp="1609085674655">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="304" y="22" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1609085674655" />
-    <state width="1398" height="277" key="GridCell.Tab.0.bottom" timestamp="1609330014373">
+    <state width="532" height="466" key="DebuggerActiveHint" timestamp="1609667339597">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="277" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609330014373" />
-    <state width="1398" height="277" key="GridCell.Tab.0.bottom/0.25.1440.792@0.25.1440.792" timestamp="1609085115027" />
-    <state width="1398" height="277" key="GridCell.Tab.0.center" timestamp="1609330014372">
+    <state width="532" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1609667339597" />
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom" timestamp="1610035982549">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609667721515" />
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom/0.25.1440.792@0.25.1440.792" timestamp="1610035982549" />
+    <state width="1398" height="264" key="GridCell.Tab.0.center" timestamp="1610035982548">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609667721513" />
+    <state width="1398" height="264" key="GridCell.Tab.0.center/0.25.1440.792@0.25.1440.792" timestamp="1610035982548" />
+    <state width="1398" height="264" key="GridCell.Tab.0.left" timestamp="1610035982548">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609667721512" />
+    <state width="1398" height="264" key="GridCell.Tab.0.left/0.25.1440.792@0.25.1440.792" timestamp="1610035982548" />
+    <state width="1398" height="264" key="GridCell.Tab.0.right" timestamp="1610035982549">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609667721514" />
+    <state width="1398" height="264" key="GridCell.Tab.0.right/0.25.1440.792@0.25.1440.792" timestamp="1610035982549" />
+    <state width="1398" height="232" key="GridCell.Tab.1.bottom" timestamp="1610035982545">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609667605649" />
+    <state width="1398" height="232" key="GridCell.Tab.1.bottom/0.25.1440.792@0.25.1440.792" timestamp="1610035982545" />
+    <state width="1398" height="232" key="GridCell.Tab.1.center" timestamp="1610035982544">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1609667605648" />
+    <state width="1398" height="232" key="GridCell.Tab.1.center/0.25.1440.792@0.25.1440.792" timestamp="1610035982544" />
+    <state width="1398" height="232" key="GridCell.Tab.1.left" timestamp="1610035982544">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1609667605648" />
+    <state width="1398" height="232" key="GridCell.Tab.1.left/0.25.1440.792@0.25.1440.792" timestamp="1610035982544" />
+    <state width="1398" height="232" key="GridCell.Tab.1.right" timestamp="1610035982545">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1609667605649" />
+    <state width="1398" height="232" key="GridCell.Tab.1.right/0.25.1440.792@0.25.1440.792" timestamp="1610035982545" />
+    <state width="1398" height="191" key="GridCell.Tab.2.bottom" timestamp="1610035982535">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609667605650" />
+    <state width="1398" height="191" key="GridCell.Tab.2.bottom/0.25.1440.792@0.25.1440.792" timestamp="1610035982535" />
+    <state width="1398" height="191" key="GridCell.Tab.2.center" timestamp="1610035982535">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1609667605650" />
+    <state width="1398" height="191" key="GridCell.Tab.2.center/0.25.1440.792@0.25.1440.792" timestamp="1610035982535" />
+    <state width="1398" height="191" key="GridCell.Tab.2.left" timestamp="1610035982535">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1609667605649" />
+    <state width="1398" height="191" key="GridCell.Tab.2.left/0.25.1440.792@0.25.1440.792" timestamp="1610035982535" />
+    <state width="1398" height="191" key="GridCell.Tab.2.right" timestamp="1610035982535">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1609667605650" />
+    <state width="1398" height="191" key="GridCell.Tab.2.right/0.25.1440.792@0.25.1440.792" timestamp="1610035982535" />
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog" timestamp="1609333352748">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="277" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609330014372" />
-    <state width="1398" height="277" key="GridCell.Tab.0.center/0.25.1440.792@0.25.1440.792" timestamp="1609085115026" />
-    <state width="1398" height="277" key="GridCell.Tab.0.left" timestamp="1609330014371">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609330014371" />
-    <state width="1398" height="277" key="GridCell.Tab.0.left/0.25.1440.792@0.25.1440.792" timestamp="1609085115024" />
-    <state width="1398" height="277" key="GridCell.Tab.0.right" timestamp="1609330014372">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609330014372" />
-    <state width="1398" height="277" key="GridCell.Tab.0.right/0.25.1440.792@0.25.1440.792" timestamp="1609085115027" />
-    <state width="1398" height="277" key="GridCell.Tab.1.bottom" timestamp="1609330014374">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609330014374" />
-    <state width="1398" height="277" key="GridCell.Tab.1.bottom/0.25.1440.792@0.25.1440.792" timestamp="1609085526873" />
-    <state width="1398" height="277" key="GridCell.Tab.1.center" timestamp="1609330014373">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1609330014373" />
-    <state width="1398" height="277" key="GridCell.Tab.1.center/0.25.1440.792@0.25.1440.792" timestamp="1609085526872" />
-    <state width="1398" height="277" key="GridCell.Tab.1.left" timestamp="1609330014373">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1609330014373" />
-    <state width="1398" height="277" key="GridCell.Tab.1.left/0.25.1440.792@0.25.1440.792" timestamp="1609085526871" />
-    <state width="1398" height="277" key="GridCell.Tab.1.right" timestamp="1609330014374">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1609330014374" />
-    <state width="1398" height="277" key="GridCell.Tab.1.right/0.25.1440.792@0.25.1440.792" timestamp="1609085526872" />
-    <state width="1398" height="277" key="GridCell.Tab.2.bottom" timestamp="1609330014361">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609330014361" />
-    <state width="1398" height="277" key="GridCell.Tab.2.bottom/0.25.1440.792@0.25.1440.792" timestamp="1609085114782" />
-    <state width="1398" height="277" key="GridCell.Tab.2.center" timestamp="1609330014360">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1609330014360" />
-    <state width="1398" height="277" key="GridCell.Tab.2.center/0.25.1440.792@0.25.1440.792" timestamp="1609085114781" />
-    <state width="1398" height="277" key="GridCell.Tab.2.left" timestamp="1609330014359">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1609330014359" />
-    <state width="1398" height="277" key="GridCell.Tab.2.left/0.25.1440.792@0.25.1440.792" timestamp="1609085114781" />
-    <state width="1398" height="277" key="GridCell.Tab.2.right" timestamp="1609330014361">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="277" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1609330014361" />
-    <state width="1398" height="277" key="GridCell.Tab.2.right/0.25.1440.792@0.25.1440.792" timestamp="1609085114782" />
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1609333352748" />
     <state x="208" y="28" key="SettingsEditor" timestamp="1609332411268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -360,18 +644,31 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609085677003" />
-    <state x="420" y="207" width="599" height="486" key="find.popup" timestamp="1609082590072">
+    <state width="720" height="436" key="XDebugger.FullValuePopup" timestamp="1609659960374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="420" y="207" width="599" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1609082590072" />
-    <state x="126" y="110" key="new project wizard" timestamp="1609080915511">
+    <state width="720" height="436" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1609659960374" />
+    <state x="100" y="128" width="1240" height="672" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609345776486">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="126" y="110" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1609080915511" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1609082695662">
+    <state x="100" y="128" width="1240" height="672" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1609345776486" />
+    <state x="420" y="207" width="599" height="486" key="find.popup" timestamp="1609662823343">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1609082695662" />
+    <state x="420" y="207" width="599" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1609662823343" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1609345745671">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1609345745671" />
+    <state x="261" y="235" width="1263" height="680" key="new project wizard" timestamp="1610769674893">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="126" y="110" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1609332583233" />
+    <state x="261" y="235" width="1263" height="680" key="new project wizard/1920.111.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1610769674893" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1609657725362">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1609657725362" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sso$FileUtil.ic" NAME="FileUtil Coverage Results" MODIFIED="1609252346237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

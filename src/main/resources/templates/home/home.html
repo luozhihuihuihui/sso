@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:th="http://www.w3.org/1999/xhtml" xmlns:method="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>资源</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="signin.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="container">
+    <div class="header clearfix" >
+        <nav>
+            <ul class="nav nav-pills pull-right" th:if="${token != null}">
+                <li role="presentation" class="active"><a href="login">lzh</a></li>
+                <li role="presentation"><a href="register">注册</a></li>
+                <li role="option"><a href="#">搜索</a></li>
+            </ul>
+            <ul class="nav nav-pills pull-right" th:if="${token == null}">
+                <li role="presentation" class="active"><a href="login">注册</a></li>
+                <li role="presentation"><a href="register">注册</a></li>
+                <li role="option"><a href="#">搜索</a></li>
+            </ul>
+        </nav>
+        <h3 class="text-muted">Hithy</h3>
+    </div>
+
+    <div class="jumbotron">
+        <h1>文件提取</h1>
+        <p class="lead">提取文件内容，可翻译并返回pdf、world、txt</p>
+
+    </div>
+
+    <div class="row marketing">
+        <div class="col-lg-6">
+            <h4>Office</h4>
+            <p>pdf、world、excel、ppt</p>
+
+            <h4>邮件</h4>
+            <p>eml格式</p>
+
+            <h4>文本</h4>
+            <p>txt、json、sql</p>
+        </div>
+
+        <div class="col-lg-6">
+            <h4>翻译</h4>
+            <p>对文件内容进行翻译，多语种选择</p>
+
+            <h4>检索</h4>
+            <p>支持全文检索</p>
+
+            <h4>上传&下载</h4>
+            <p>上传解析、检索下载</p>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2020 </p>
+    </footer>
+
+</div> <!-- /container -->
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Wellcom</title>-->
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">-->
+<!--    <link rel="stylesheet" href="layui/css/layui.css" media="all">-->
+<!--</head>-->
+<!--<body>-->
+
+
+
+
+<!--<div th:if="${error != null}"><span th:text="${error}" /></div>-->
+<!--<div th:if="${error == null}">1111</div>-->
+<!--<form th:action="@{/login}" th:method="post">&lt;!&ndash;表单提交&ndash;&gt;-->
+<!--    用户名：<input type="text" id="userName" name="userName" value=""/><br>-->
+<!--    密码：<input type="password" id="password" name="passWord" value=""/><br>-->
+
+<!--</form>-->
+
+<!--</body>-->
+<!--</html>-->
